@@ -57,10 +57,10 @@ export default function Portfolio() {
             </div>
 
             <div className="flex justify-center gap-4">
-              <Link href="https://linkedin.com/in/kishore" className="text-zinc-400 hover:text-amber-500">
+              <Link href="https://www.linkedin.com/in/kishore-yalamaddi-8a5919278/" className="text-zinc-400 hover:text-amber-500">
                 <Linkedin className="h-5 w-5" />
               </Link>
-              <Link href="https://github.com/kishore" className="text-zinc-400 hover:text-amber-500">
+              <Link href="https://github.com/kishore-yalamaddi" className="text-zinc-400 hover:text-amber-500">
                 <Github className="h-5 w-5" />
               </Link>
             </div>
